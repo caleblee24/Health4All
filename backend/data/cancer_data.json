@@ -1,0 +1,23 @@
+{
+  "heatmap": [
+    {
+      "lat": 47.62985226,
+      "lng": -122.3318751,
+      "value": 101.6,
+      "rate": 101.6,
+      "name": "Seattle - South Lake Union, Cascade, and Eastlake",
+      "comparison": "not different",
+      "cases": 47
+    },
+    {
+      "lat": 47.3340143,
+      "lng": -122.3138558,
+      "value": 107.7,
+      "rate": 107.7,
+      "name": "Federal Way - North Corridor",
+      "comparison": "lower",
+      "cases": 94
+    }
+
+  ]
+}
